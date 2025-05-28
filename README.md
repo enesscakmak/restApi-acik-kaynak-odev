@@ -1,4 +1,4 @@
-# Online Kütüphane Sistemi - OpenAPI 3.0 Tanımı
+# Online Kütüphane Sistemi
 
 Bu repo bir çevrim içi üniversite kütüphane sistemine ait RESTful API tanımını gösteren ödev için gerekli dosyaları içerir. API, kitap, öğrenci ve ödünç alma işlemlerini kapsar.
 
